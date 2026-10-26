@@ -13,7 +13,7 @@ his is my custom MIDI keypad PCB designed in KiCad 10. The goal is to build a co
 <img width="1097" height="810" alt="Screenshot 2026-10-25 211558" src="https://github.com/user-attachments/assets/040a378b-3c9b-4e13-9695-24d783228bf4" />
 This is my schematic editor for all of the stuff:
 <img width="1265" height="860" alt="Screenshot 2026-10-25 130008" src="https://github.com/user-attachments/assets/a0a81318-f6ba-47d0-b35c-d55a59f2ddf2" />
-This is .pcb ediotr screenshot for all the stuff:
+This is .pcb editor screenshot for all the stuff:
 <img width="702" height="417" alt="Screenshot 2026-10-25 163811" src="https://github.com/user-attachments/assets/31ebaac1-3502-4266-873b-79f8ad6bc285" />
 
 
